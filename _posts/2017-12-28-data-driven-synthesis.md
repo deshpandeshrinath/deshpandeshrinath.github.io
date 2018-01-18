@@ -49,7 +49,7 @@ multitude of solutions with similar coupler trajectories can be extracted.
 Figure shows same trajectory in two different scales
 ![Spatial Curve with different scales]({{ "/assets/trajectories.png" | absolute_url }})
 
-| Integral of unsinged Integral (Ks) | Curvature w.r.t. Ks |
+| Integral of unsinged Curvature (Ks) | Curvature w.r.t. Ks |
 |-------|---------|
 | ![Curvature_Integrals]({{ "/assets/Curvature_Integral.png" | absolute_url }}){:width="100%"} | ![Curvatures w.r.t Integral]({{ "/assets/Signatures.png" | absolute_url }}){:width="100%"}|
 
@@ -68,7 +68,7 @@ In the case of 4R Planar fourbar linkage parameters are \\(l_1, l_2, l_3, l_4, l
 where \\(l_5\\), \\(l_6\\) are base and height of the coupler triangle.
 
 ### Path shape Hypothesis
-__Shape of the Path__ of a fourbar linkage has a __maximum variation__ when link
+__Shape of the Path__ of a fourbar liinkage has a __maximum variation__ when link
 ratios are closer to 1, and it decreases with __skewed ratios__.
 Thus, if lets say, each ratio is varied between 0.2 to 5.
 Then the sampling distribution should look like Log-Normal Distribution as shown
