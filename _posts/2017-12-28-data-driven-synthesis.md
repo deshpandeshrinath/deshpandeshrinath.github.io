@@ -14,9 +14,12 @@ properties.
 This database should also try to learn form the data for faster results.
 
 Whenever an input motion or path is presented, k nearest neighbors corresponding to that
-motion should be returned by the framework.
+motion or path should be returned.
 Since each data point in the dataset corresponds to defect free linkage, a
 multitude of solutions with similar coupler trajectories can be extracted.
+
+Here nearest neighbor is defined as motion or path whose part or whole has a
+shape which is closest to query motion or path.
 
 ## [Literature Surveys]({{ site.baseurl }}{% post_url 2018-01-30-survey-of-mechanism-design %})
 
@@ -25,18 +28,20 @@ multitude of solutions with similar coupler trajectories can be extracted.
   - Should be invariant to Scale, Rotation, Translation
     - helps in large reduction in redundant data
   - Insensitive to sampling
-    - minimal effect of discretization on the representation
+    - Only Sensitive to shape regardless of timing information.
   - Low dimensionality
     - For efficient insertion and query
 - ### Data Generation
   - Data should be generated from such a distribution of linkage parameters
     which maximizes the variance in trajectory space.
 - ### Efficient Query Operation
-  - Data Reduction using Competitive Learning Methods like Growing Neural Gas
   - Cascaded Queries using Clustering
+  - Data Reduction using Competitive Learning Methods like Growing Neural Gas
 - ### Optimization of Results obtained from neighbor queries
   - Objective function can optimize the linkage based on partial curve
     matching
+  - Where objective function is the shape similarity (part or whole). -> Just
+    like S.Kota's objective function of cumulative deviation.
 - ### AI techniques for intelligent synthesis:
   - [Build a knowledge-based System](https://en.wikipedia.org/wiki/Knowledge-based_systems)
   - Interactive and intelligent user feedback through machine learning.
@@ -55,7 +60,7 @@ Figure shows same trajectory in two different scales
 |-------|---------|
 | ![Curvature_Integrals]({{ "/assets/data-driven-synthesis/Curvature_Integral.png" | absolute_url }}){:width="100%"} | ![Curvatures w.r.t Integral]({{ "/assets/data-driven-synthesis/Signatures.png" | absolute_url }}){:width="100%"}|
 
-### Dimensionality Reduction and Data preprocessing
+### Dimensionality Reduction and Data pre-processing
 3. We perform fourier analysis of the obtained signature from the first two
    steps and store first five harmonics of the curve.
 4. We store this data point into k-d Tree data structure for efficient query
@@ -78,6 +83,14 @@ below.
 
 ![Sampling-Distribution]({{ "/assets/data-driven-synthesis/current_pd_of_link_ratio.png" | absolute_url }}){:width="50%"}
 
+### Clustering
+1. A graph can be built as database.
+
+There are several algorithms for finding Nearest Neighbor on a Graph.
+[Efficient K-Nearest Neighbor Graph Construction for Generic Similarity Measures](http://www.cs.princeton.edu/cass/papers/www11.pdf)
+
+
+
 ## Example : User Input Trajectory
 Following Target path is taken with help of MotionGen GUI:
 
@@ -92,5 +105,3 @@ Following Target path is taken with help of MotionGen GUI:
 __Closest Mechanism__
 
 ![mechanism]({{ "/assets/data-driven-synthesis/mechanism.png" | absolute_url }}){:width="40%"}
-
-

@@ -121,3 +121,18 @@ variational autoencoders.
 
 ## Variational Geometry Approach to Synthesis
 - ### [A Variational Approach for the Design of Spatial Four-Bar Mechanism](http://www.tandfonline.com/doi/abs/10.1080/08905459708905279)
+
+
+### Clustering Using Auto-Encoders:
+  [Auto-encoder Based Data Clustering](http://www.nlpr.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/research/CFS-CIAPR13/paper.pdf)
+  [Unsupervised Deep Embedding for Clustering Analysis](http://proceedings.mlr.press/v48/xieb16.pdf)
+
+### Sensitivity Analysis
+[Sensitivity analysis: strategies, methods, concepts, examples](http://dpannell.fnas.uwa.edu.au/dpap971f.htm)
+
+## Knowledge-based-Planning
+Read about KR: [Knowledge representation and reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning)
+### [A Knowledge-Based Approach to Planning with Incomplete Information and
+Sensing∗](https://www.cs.nmsu.edu/~tson/classes/spring04-579/petricbacchus.pdf)
+### [KABouM: Knowledge-Level Action and
+Bounding Geometry Motion Planner](http://www.jair.org/media/5560/live-5560-10469-jair.pdf)
