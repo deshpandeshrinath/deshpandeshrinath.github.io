@@ -34,7 +34,7 @@ mathjax: true
 
 ## Reinforcement Learning
 Usually RL involves changing the agents behavior so it’s more likely to take actions that resulted in high rewards in the past - this is the “learning” part.
-In contrast to Optimization, where we don't learn from out __past experiences__.
+In contrast to Optimization, where we don't learn from our __past experiences__.
 - Agent can learn from past to avoid infringing constraints that are hard to
   mathematically specify in optimization routines.
   - For ex. Obstacle avoidance, dynamic constrains, some common sense aspect of
