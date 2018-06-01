@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reinforcement Learning approach to Mechanism Synthesis"
-date: 2018-05-05
+date: 2018-05-31
 mathjax: true
 ---
 
