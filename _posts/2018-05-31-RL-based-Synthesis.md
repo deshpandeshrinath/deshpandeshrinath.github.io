@@ -122,7 +122,7 @@ the synthesis problem in closest manner.
 # References
 - [Temporal Difference Models]( http://bair.berkeley.edu/blog/2018/04/26/tdm/ )
 
-- [Hindsight Experience Replay] (https://arxiv.org/abs/1707.01495)
+- [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495)
 
 - [OPTIMAL LEARNING AND APPROXIMATE DYNAMIC PROGRAMMING](http://castlelab.princeton.edu/html/Papers/Powell-Ryzhov-ADP_and_Optimal_LearningFeb2012.pdf)
 
