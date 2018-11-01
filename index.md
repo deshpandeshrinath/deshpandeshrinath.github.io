@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: home
 title: Shrinath Deshpande
 ---
-
-# Shrinath Deshpande
 
 Welcome to my website! I am currently working as Research Assistant @ Stony Brook University.
 I am a mechanical engineer fearlessly swimming into deep waters of Robotics and Artificial Intelligence.

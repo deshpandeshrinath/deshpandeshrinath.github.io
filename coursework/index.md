@@ -3,20 +3,23 @@ layout: default
 title: Course Work
 ---
 ## Computer Science @ Stony Brook
-- Computer Vision
+- Artificial Intelligence (CSE 537)
 
-- Computation Geometry
+- Computer Vision (CSE 527)
 
-- Analysis of Algorithms
+- Computation Geometry (CSE 555)
+
+- Analysis of Algorithms (CSE 548)
 
 ## Mechanical Engineering @ Stony Brook
-- Machine Learning in Kinematics and Dynamics of Machines
 
-- Advanced Control Systems
+- Machine Learning in Kinematics and Dynamics of Machines (MEC 634)
 
-- Robotics: Theory and Application
+- Advanced Control Systems (MEC 560)
 
-- Product Design Optimization
+- Robotics: Theory and Application (MEC 529)
 
-- Geometrical Modelling for CAD/CAM
+- Product Design Optimization (MEC 525)
+
+- Geometrical Modelling for CAD/CAM (MEC 572)
 

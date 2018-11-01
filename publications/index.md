@@ -4,6 +4,9 @@ title: Publications
 ---
 
 ## Journal Papers
+
+- Deshpande S, Purwar A. "A Machine Learning Approach to Kinematic Synthesis of Defect-Free Planar Four-Bar Linkages", ASME IDETC Aug 2018. (Accepted for ASME J. Computing and Information Science in Engineering)
+
 - Deshpande, Shrinath, and Anurag Purwar. "A Task-Driven Approach to Optimal Synthesis of Planar Four-Bar Linkages for Extended Burmester Problem." Journal of Mechanisms and Robotics 9.6 (2017): 061005.
 
 - Ge, Q. J., Purwar, A., Zhao, P., & Deshpande, S. (2017). A Task-Driven Approach to Unified Synthesis of Planar Four-Bar Linkages Using Algebraic Fitting of a Pencil of G-Manifolds. Journal of Computing and Information Science in Engineering, 17(3), 031011.

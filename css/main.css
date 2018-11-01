@@ -4,7 +4,7 @@ body {
 }
 html *
 {
-   font-family:'Helvetica', 'Arial', 'Sans-Serif';
+   font-family:'Latin Modern Roman', 'Arial', 'Sans-Serif';
    line-height: 1.3em;
 }
 nav ul, footer ul {
@@ -24,6 +24,39 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+#my-image{
+  width: 20%;
+  float: right;
+  padding-top: 1em;
+}
+
+.header-bar{
+display:block;
+height: 5em;
+border-bottom: 1px solid #d5d5d5;
+}
+
+.page-title{
+float:left;
+padding-left: 0.5em;
+padding-right: 1em;
+color: #0d96c3;
+}
+
+.container{
+width: 100%;
+min-height: 80%;
+}
+
+.home-container{
+width: 60%;
+min-height: 80%;
+
+.main-body{
+ min-height: 20em;
+  }
+
 /*
 h1 {
     font-size: 2em;
