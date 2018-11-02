@@ -26,14 +26,15 @@ a:hover {
 }
 
 #my-image{
-  width: 20%;
+  width: 29%;
   float: right;
   padding-top: 1em;
+  position: relative;
+  right: 3em;
 }
 
 .header-bar{
-display:block;
-height: 5em;
+display: grid;
 border-bottom: 1px solid #d5d5d5;
 }
 
