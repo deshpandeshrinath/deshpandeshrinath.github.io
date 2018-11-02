@@ -40,9 +40,8 @@ border-bottom: 1px solid #d5d5d5;
 
 .page-title{
 float:left;
-padding-left: 0.5em;
-padding-right: 1em;
 color: #0d96c3;
+margin-top: 0px;
 }
 
 .container{
