@@ -2,6 +2,7 @@
 layout: home
 title: Shrinath Deshpande
 ---
+### “First we shape our tools, thereafter they shape us” — Marshall McLuhan, 1967.
 
 Hi! I am currently working as a Research Assistant @ Stony Brook University.
 I am working towards bridging the gap between mechanical designer and machine designs with Artificial Intelligence.
