@@ -43,7 +43,8 @@ solvers but much less significant to the designer.
 <p align="center">
 <img src="{{ "/assets/proposal/ai-agent.jpeg" | absolute_url }}" alt="AI-Synthesis" style="width:40em">
 </p>
-An Example of Designer-AI Assistant Interaction would be as follows,
+
+### An Example of Designer-AI Assistant Interaction:
 
 - Mechanism Designer inputs some points as a guiding path. The objective is to generate linkages that follow a path and satisfy the Grashof condition.
 
