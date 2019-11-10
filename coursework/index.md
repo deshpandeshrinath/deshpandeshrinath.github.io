@@ -23,3 +23,4 @@ title: Course Work
 
 - Geometrical Modelling for CAD/CAM (MEC 572)
 
+- Advanced Dynamics (MEC 568)

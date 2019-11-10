@@ -24,7 +24,6 @@ title: Projects
   - Compatible with all OpenAI-Gym environments.
   - Implemented Hindsight Experience Replay for learning goal-oriented tasks with sparse binary rewards.
 
-
 - ### End-to-End Monocular Visual Odometry by Deep Learning
   ([https://github.com/sladebot/deepvo](https://github.com/sladebot/deepvo))
   - Built a deep Recurrent Convolutional Neural Network for pose estimation of a car
@@ -37,7 +36,7 @@ title: Projects
   - Algorithm builds a weighted DAG on input; designed heuristics for assigning weights.
   - Consensus Trajectory is the dijkstra's shortest path on DAG.
 
-- ### Motion Planning and Optimal Control of a Car in Drifting Conditions
+- ### [Motion Planning and Optimal Control of a Car in Drifting Conditions]({{ "/assets/control-sys-project/Report.html" | absolute_url }})
   - Designed Extended Kalman Filter for Observer; Modeled governing dynamics; Used empirical tire friction model for drift simulations.
   - Computed shortest path using Dynamic Programming. Obtained Optimal Control via Direct Collocation; Implemented in MATLAB using optimal control solver [GPOPS II](http://www.gpops2.com).
   - Used high gain PID controller to follow optimal control. Results match with empirical drifting techniques used by race drivers.
