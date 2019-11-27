@@ -10,9 +10,7 @@ My quest is to develop an ML-based framework that connects with inexperienced
 designers and empowers them with the state of art machine design algorithms to
 invent new machines.
 
-About me, I like to see the big picture. I am quick to see complex relationships between things and ideas.
-I try to understand things in great depth and have the ability to size up a situation with precision and ease.
-I live in the world of possibilities and become excited about concepts, challenges, and difficulties.
-
+About me, I like to see the big picture. I live in the world of possibilities and become excited about concepts, challenges, and difficulties.
+I love to make new friends, travel and learn about different cultures. I like to read, paint, sketch, and play cricket.
 From putting together some cool robots to developing new ways computers can empower the masses -- I am interested in it.
 
