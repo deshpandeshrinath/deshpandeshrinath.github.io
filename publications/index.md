@@ -2,6 +2,8 @@
 layout: default
 title: Publications
 ---
+## PhD Dissertation Draft
+  - [Data-Driven Approach To Variational Synthesis of Mechanisms]({{ "/assets/papers/dissertation.pdf" | absolute_url }})
 
 ## Journal Papers
 - Deshpande S, Purwar A. __"Computational Creativity via Assisted Variational Synthesis of Mechanisms using Deep Generative Models"__, ASME Journal of Mechanical Design 2019 \[[PDF]({{ "/assets/papers/computational-creativity.pdf" | absolute_url }})\]
